@@ -1,0 +1,150 @@
+#calendarEmbedWrapper {
+    margin-top: 20px;
+    width: 80%;
+    height: 700px;
+    margin-left: 10%;
+    position: relative;
+}
+#calendarEmbed,#calendarEmbedBlocker {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+}
+#calendarEmbedBlocker {
+    background-color: #e15151;
+}
+#calendarEmbedBlocker p {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 19%;
+    text-align: center;
+    font-size: x-large;
+}
+
+#email {
+    margin-top: 10px;
+    display: none;
+    border: 3px solid lightgray;
+    border-radius: 0px;
+    padding: 4px;
+    background-color: white;
+    color: black;
+}
+
+#load-calendar-btn {
+    background-color: #04af71; /* Green */
+    border: none;
+    color: white;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 12px;
+}
+
+#load-btn-body {
+    /* border: 3px solid red; */
+    width: 10%;
+    position: relative;
+    left: -520px;
+    margin-bottom: -30px;
+}
+
+@media screen and (max-width: 1200px) {
+    #load-btn-body {
+        left: -180px;
+    }
+}
+
+#calendar-txt {
+    text-align: center;
+}
+
+
+.holder {
+    width: 100%;
+    margin: 10px auto;
+}
+
+
+.switch {
+    display: block;
+    margin-top: 4px;
+}
+
+.switch-toggle {
+    position: absolute;
+    margin-left: -9999px;
+    visibility: hidden;
+}
+
+.switch-toggle ~ .switch-label {
+    display: block;
+    left: 160px;
+    position: relative;
+    cursor: pointer;
+    outline: none;
+    user-select: none;
+    padding: 20px;
+    width: 100px;
+}
+
+.switch-toggle ~ .switch-label:before,
+.switch-toggle ~ .switch-label:after {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    color: white;
+    font-family: "Roboto Slab", serif;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    border-radius: 12px;
+}
+
+.switch-toggle ~ .switch-label:before {
+    background-color: rgb(5, 175, 235);
+    content: attr(switch-off);
+    transition: transform 0.5s;
+    backface-visibility: hidden;
+}
+
+.switch-toggle ~ .switch-label:after {
+    background-color: rgb(5, 175, 235);
+    content: attr(switch-on);
+    transition: transform 0.5s;
+    transform: rotateY(180deg);
+    backface-visibility: hidden;
+}
+
+.switch-toggle:checked ~ .switch-label:before {
+    transform: rotateY(100deg);
+}
+
+.switch-toggle:checked ~ .switch-label:after {
+    transform: rotateY(0);
+}
+
+.switch-toggle:checked ~ #box1, .switch-toggle:not(checked) ~ #box2 {
+    display: block;
+}
+
+.switch-toggle:not(checked) ~ #box1, .switch-toggle:checked ~ #box2 {
+    display: none;
+}
+
+#contact-us-email-link {
+    text-decoration: none;
+    color: white;
+}
+
+#contact-us-email-link:hover {
+    color:rgb(5, 175, 235);
+}

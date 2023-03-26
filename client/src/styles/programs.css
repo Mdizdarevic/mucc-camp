@@ -1,0 +1,302 @@
+
+#programs-academics-header,
+#programs-arts-header,
+#programs-health-header,
+#programs-muccamp-header,
+#programs-syep-header {
+    background-color: #E0E0E0;
+    padding: 2%;
+    color: black;
+    text-align: center;
+    box-shadow: 0 5px rgba(0,0,0,0.01);
+    transition: 0.3s;
+}
+
+#programs-academics-header {
+    background-color: rgb(5, 175, 235);
+    padding: 2%;
+    color: white;
+    text-align: center;
+}
+
+#programs-muccamp-header,
+#programs-syep-header {
+    padding-top: 3%;
+}
+
+#programs-cols {
+    column-gap: 40px;
+}
+
+.programs-blocks-1,
+.programs-blocks-2,
+.programs-blocks-3,
+.programs-blocks-4,
+.programs-blocks-5 {
+    padding: 2%;
+    text-align: center;
+}
+
+#programs-blocks {
+    column-gap: 40px;
+}
+
+#academicsBlock,
+#artsBlock,
+#healthBlock,
+#muccampBlock,
+#syepBlock {
+    padding: 2%;
+    text-align: center;
+}
+
+.academics-grey-body,
+.arts-grey-body,
+.health-grey-body,
+.mucc-grey-body,
+.syep-grey-body {
+    padding: 30px;
+    background-color: #E0E0E0;
+}
+
+.arts-grey-body {
+    padding: 30px;
+    background-color: #E0E0E0;
+    margin-bottom: -200px;
+}
+
+#programs-blue-txt {
+    color: rgb(5, 175, 235);
+}
+
+.programs-links li {
+    padding: 5px;
+}
+
+#tutoring-blue-line {
+    border-bottom: 3px solid rgb(5, 175, 235);
+    width: 10%;
+}
+
+#tutoring-txt, 
+#muccbots-txt {
+    font-size: 18px;
+    padding-right: 30px;
+}
+
+.muccamp-pic {
+    width: 60%;
+    height: 60%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#muccamp-pic-body {
+    position: relative;
+}
+
+/* #muccamp-pic-body:before,
+#muccamp-pic-body:after {
+  position: absolute;
+  content: "";
+  width: 120px;
+  height: 120px;
+}
+#muccamp-pic-body:before {
+  top: -10px;
+  right: 240px;
+  border-top: 10px solid rgb(5, 175, 235);
+  border-right: 10px solid rgb(5, 175, 235);
+}
+#muccamp-pic-body:after {
+  bottom: -10px;
+  left: 240px;
+  border-bottom: 10px solid rgb(5, 175, 235);
+  border-left: 10px solid rgb(5, 175, 235);
+} */
+
+#muccamp-blue-line {
+    border-bottom: 3px solid rgb(5, 175, 235);
+    width: 10%;
+}
+
+.dancinggirl-pic,
+.kidsattable-pic,
+.redhoodieguy-pic {
+  width: 100%;
+  height: 100%;
+}
+
+.arts-pic {
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#arts-pic-body {
+    position: relative;
+    top: -120px;
+}
+
+/* #arts-pic-body:before,
+#arts-pic-body:after {
+  position: absolute;
+  content: "";
+  width: 120px;
+  height: 120px;
+}
+#arts-pic-body:before {
+  top: -10px;
+  right: -10px;
+  border-top: 10px solid rgb(5, 175, 235);
+  border-right: 10px solid rgb(5, 175, 235);
+}
+#arts-pic-body:after {
+  bottom: -10px;
+  left: -10px;
+  border-bottom: 10px solid rgb(5, 175, 235);
+  border-left: 10px solid rgb(5, 175, 235);
+} */
+
+.arts-pic-2 {
+    width: 100%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#arts-pic-body-2 {
+    position: relative;
+    top: -220px;
+}
+
+/* #arts-pic-body-2:before,
+#arts-pic-body-2:after {
+  position: absolute;
+  content: "";
+  width: 120px;
+  height: 120px;
+}
+#arts-pic-body-2:before {
+  top: -10px;
+  right: -10px;
+  border-top: 10px solid rgb(5, 175, 235);
+  border-right: 10px solid rgb(5, 175, 235);
+}
+#arts-pic-body-2:after {
+  bottom: -10px;
+  left: -10px;
+  border-bottom: 10px solid rgb(5, 175, 235);
+  border-left: 10px solid rgb(5, 175, 235);
+} */
+
+.tutoring-pic {
+  width: 100%;
+  height: 100%;
+}
+
+.muccbots-pic {
+  width: 100%;
+  height: 100%;
+}
+
+#tutoring-pic-body {
+    position: relative;
+}
+
+#muccbots-pic-body {
+  position: relative;
+}
+
+#dancinggirl-pic-body {
+  position: relative;
+}
+
+/* #tutoring-pic-body:before,
+#tutoring-pic-body:after {
+  position: absolute;
+  content: "";
+  width: 120px;
+  height: 120px;
+}
+#tutoring-pic-body:before {
+  top: -10px;
+  right: -10px;
+  border-top: 10px solid rgb(5, 175, 235);
+  border-right: 10px solid rgb(5, 175, 235);
+}
+#tutoring-pic-body:after {
+  bottom: -10px;
+  left: -10px;
+  border-bottom: 10px solid rgb(5, 175, 235);
+  border-left: 10px solid rgb(5, 175, 235);
+} */
+
+#wide-screen-programs {
+  display: block;
+}
+#mobile-screen-programs {
+  display: none;
+}
+
+@media screen and (max-width:1000px) {
+  #wide-screen-programs {
+    display: none;
+  }
+
+  #tutoring-pic-body {
+    margin-top: 566px;
+    width: 250%;
+    left: -250px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  #muccbots-pic-body {
+    padding-left: 20px;
+    padding-right: 20px;
+    left: -250px;
+    width: 250%;
+    margin-top: 250px;
+  }
+
+  #muccbots-txt {
+    width: 160%;
+    /* background-color: blue; */
+    padding-bottom: -50px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  #tutoring-txt {
+    /* background-color: red; */
+    width: 160%;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  #mobile-screen-programs {
+    display: block;
+  }
+
+  .dancinggirl-pic {
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 200px;
+  }
+
+  .kidsattable-pic, 
+  .redhoodieguy-pic {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .mobile-screen-arts-pic {
+    margin-bottom: 180px;
+  }
+
+}

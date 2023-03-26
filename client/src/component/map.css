@@ -1,0 +1,35 @@
+.leaflet-container {
+    width: 80%;
+    height: 90vh;
+    margin: auto;
+    margin-bottom: 20px;
+    z-index: 1;
+}
+
+#map-popup-description {
+    padding-bottom: 15px;
+}
+
+#map-popup-description p {
+    font-size: 18px;
+}
+
+#map-blue-line {
+    margin-top: -5px;
+    border-bottom: 3px solid deepskyblue;
+    width: 20%;
+}
+
+@media screen and (max-width:1000px) {
+    #map-popup-description p {
+        font-size: 14px;
+    }
+
+    .leaflet-container {
+        width: 90%;
+    }
+}
+
+#map-header-txt {
+    text-align: center;
+}

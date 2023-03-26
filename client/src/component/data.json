@@ -1,0 +1,37 @@
+[
+    {
+      "Id": 1,
+      "Location": "MUCC",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "Latitude": 43.089320,
+      "Longitude": -75.248400
+    },
+    {
+      "Id": 2,
+      "Location": "Germany",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "Latitude": 51.163375, 
+      "Longitude": 10.447683
+    },
+    {
+      "Id": 3,
+      "Location": "Brazil",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "Latitude": -15.6006, 
+      "Longitude": -56.1004
+    },
+    {
+      "Id": 4,
+      "Location": "India",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "Latitude": 21.9149, 
+      "Longitude": 78.0281
+    },
+    {
+      "Id": 5,
+      "Location": "DR Congo",
+      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "Latitude": 0.00000,
+      "Longitude": 26.121
+    }
+]

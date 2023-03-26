@@ -1,0 +1,180 @@
+#overview-header-txt {
+    color: rgb(5, 175, 235);
+    text-transform: uppercase;
+    text-align: center;
+}
+
+#overview-txt {
+    font-size: 18px;
+}
+
+#overview-ourstory-img img {
+    width: 60%;
+    height: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#overview-gray-section {
+    background-color: rgb(230, 230, 230);
+    position: relative;
+    bottom: 300px;
+    z-index: -1;
+    height: 400px;
+}
+
+#ourmission {
+    position: relative;
+    bottom: 200px;
+}
+
+#our-mission-blue-line {
+    border-bottom: 3px solid rgb(5, 175, 235);
+    width: 20%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#col-right {
+    text-align: center;
+}
+
+#ourmission-txt-body {
+    padding-top: 60px;
+}
+
+
+#ourmission-txt {
+    text-align: left;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 22px;
+}
+
+#ourmission-img {
+    width: 100%;
+    height: 85%;
+}
+
+#ourmission-gray-section {
+    background-color: rgb(230, 230, 230);
+    position: relative;
+    bottom: 700px;
+    z-index: -1;
+    height: 520px;
+    width: 1000px;
+    margin-right: 100px;
+}
+
+#overview-body {
+    margin-bottom: -500px;
+}
+
+.staff-cards {
+    margin-top: 600px;
+}
+
+#staff-body {
+    display: grid;
+    place-items: center;
+    margin-bottom: 80px;
+}
+
+#staff-card {
+    width: 100%;
+    background: rgb(240, 240, 240);
+    text-align: center;
+    border: none;
+}
+
+.staff-img-body {
+    position: relative;
+    border-radius: 5px 5px 0 0;
+}
+
+.staff-img-body img {
+    margin-left: 25px;
+    margin-right: 25px;
+    border: 20px solid rgb(220, 220, 220);
+    object-fit: cover;
+}
+
+.staff-img {
+    position: absolute;
+    width: 100%;
+    bottom: -30px;
+    left: -25px;
+}
+
+.staff-name {
+    color: rgb(5, 175, 235);
+    font-size: 20px;
+    font-family: Arial,Helvetica,sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.staff-email {
+    color: black;
+    text-align: center;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 15px;
+}
+
+.staff-email a {
+    color: black;
+    text-decoration: none;
+}
+
+.staff-email a:hover {
+    color:rgb(5, 175, 235);
+}
+
+.staff-title {
+    color: black;
+    text-align: center;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+}
+.staff-bio {
+    color: black;
+    text-align: left;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 15px;
+}
+
+.staff-bio-body {
+    padding: 20px;
+}
+
+#overview-executive-txt {
+    color: rgb(5, 175, 235);
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.executive-names {
+    padding-bottom: 25px;
+}
+
+#navbarSupportedContent {
+    margin-left: 250px;
+}
+
+@media screen and (max-width: 940px) {
+    #navbarSupportedContent {
+        margin-left: 0px;
+    }
+    
+}
+
+.card {
+    margin: 0 auto;
+    float: none; 
+}
+
+#second-staff-row {
+    margin-top: -200px;
+}
