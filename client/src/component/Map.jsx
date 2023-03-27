@@ -59,18 +59,6 @@ const Map = () => {
 
     return (
         <div>
-            <div className='container'>
-                <br/>
-                <h1 id="overview-header-txt">CONSTITUENT MAP</h1>
-                <br/>
-            </div>
-            <div className='container' id='community-txt'>
-                <div id='map-header-txt' class="scroll-reveal box left">
-                    <h3> Learn more about all the places our constituents arrived from!
-                    </h3>
-                    <br/>
-                </div>
-            </div>
             <MapContainer 
                 center = { [ 20.0,0.0 ] }
                 zoom = { 2 }
