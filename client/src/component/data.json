@@ -1,37 +1,296 @@
 [
-    {
-      "Id": 1,
-      "Location": "MUCC",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "Latitude": 43.089320,
-      "Longitude": -75.248400
-    },
-    {
-      "Id": 2,
-      "Location": "Germany",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "Latitude": 51.163375, 
-      "Longitude": 10.447683
-    },
-    {
-      "Id": 3,
-      "Location": "Brazil",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "Latitude": -15.6006, 
-      "Longitude": -56.1004
-    },
-    {
-      "Id": 4,
-      "Location": "India",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "Latitude": 21.9149, 
-      "Longitude": 78.0281
-    },
-    {
-      "Id": 5,
-      "Location": "DR Congo",
-      "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-      "Latitude": 0.00000,
-      "Longitude": 26.121
-    }
+  {
+    "Id": 1,
+    "Location": "Bosnia & Herzegovina",
+    "Description": "",
+    "Latitude": 43.9159,
+    "Longitude": 17.6791
+  },
+  {
+    "Id": 2,
+    "Location": "Myanmar (Burma)",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 21.9162,
+    "Longitude": 95.9560
+  },
+  {
+    "Id": 3,
+    "Location": "Vietnam",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 14.0583,
+    "Longitude": 108.2772
+  },
+  {
+    "Id": 4,
+    "Location": "Ukraine",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 49.260010,
+    "Longitude": 31.352220
+  },
+  {
+    "Id": 5,
+    "Location": "Iraq",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 33.3152,
+    "Longitude": 44.3661
+  },
+  {
+    "Id": 6,
+    "Location": "Afghanistan",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 33.9391,
+    "Longitude": 67.7100
+  },
+  {
+    "Id": 7,
+    "Location": "Somalia",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 5.1521,
+    "Longitude": 46.1996
+  },
+  {
+    "Id": 8,
+    "Location": "Bhutan",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 27.5142,
+    "Longitude": 90.4336
+  },
+  {
+    "Id": 9,
+    "Location": "Nepal",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 28.3949,
+    "Longitude": 84.1240
+  },
+  {
+    "Id": 10,
+    "Location": "DR Congo",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 4.0383,
+    "Longitude": 21.7587
+  },
+  {
+    "Id": 11,
+    "Location": "Kenya",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 0.0236,
+    "Longitude": 37.9062
+  },
+  {
+    "Id": 12,
+    "Location": "Belarus",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 53.7098,
+    "Longitude": 27.9534
+  },
+  {
+    "Id": 13,
+    "Location": "Former Soviet Union",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 61.5240,
+    "Longitude": 105.3188
+  },
+  {
+    "Id": 14,
+    "Location": "Serbia",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 44.0165,
+    "Longitude": 21.0059
+  },
+  {
+    "Id": 15,
+    "Location": "Croatia",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 45.1000,
+    "Longitude": 15.2000
+  },
+  {
+    "Id": 17,
+    "Location": "Lebanon",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 33.8547,
+    "Longitude": 35.8623
+  },
+  {
+    "Id": 18,
+    "Location": "Romania",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 45.9432,
+    "Longitude": 24.9668
+  },
+  {
+    "Id": 19,
+    "Location": "Dominican Republic",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 18.7357,
+    "Longitude": -70.1627
+  },
+  {
+    "Id": 20,
+    "Location": "Cuba",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 21.5218,
+    "Longitude": -77.7812
+  },
+  {
+    "Id": 21,
+    "Location": "Brazil",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": -15.601,
+    "Longitude": -56.1008
+  },
+  {
+    "Id": 22,
+    "Location": "Bulgaria",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 42.7339,
+    "Longitude": 25.4858
+  },
+  {
+    "Id": 23,
+    "Location": "Cambodia",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 12.5657,
+    "Longitude": 104.9910
+  },
+  {
+    "Id": 24,
+    "Location": "China",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 35.8617,
+    "Longitude": 104.1954
+  },
+  {
+    "Id": 25,
+    "Location": "Czech Republic",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 49.8175,
+    "Longitude": 15.4730
+  },
+  {
+    "Id": 26,
+    "Location": "Slovakia",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 48.6690,
+    "Longitude": 19.6990
+  },
+  {
+    "Id": 27,
+    "Location": "Egypt",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 26.8206,
+    "Longitude": 30.8025
+  },
+  {
+    "Id": 28,
+    "Location": "Eritrea",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 15.1794,
+    "Longitude": 39.7823
+  },
+  {
+    "Id": 29,
+    "Location": "Ethiopia",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 9.1450,
+    "Longitude": 40.4897
+  },
+  {
+    "Id": 30,
+    "Location": "Lithuania",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 55.1694,
+    "Longitude": 23.8813
+  },
+  {
+    "Id": 31,
+    "Location": "Uzbekistan",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 41.3775,
+    "Longitude": 64.5853
+  },
+  {
+    "Id": 32,
+    "Location": "Haiti",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 18.9712,
+    "Longitude": -72.2852
+  },
+  {
+    "Id": 33,
+    "Location": "Hungary",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 47.1625,
+    "Longitude": 19.5033
+  },
+  {
+    "Id": 34,
+    "Location": "Iran",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 32.4279,
+    "Longitude": 53.6880
+  },
+  {
+    "Id": 35,
+    "Location": "Kosovo",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 42.6026,
+    "Longitude": 20.9030
+  },
+  {
+    "Id": 36,
+    "Location": "Laos",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 19.8563,
+    "Longitude": 102.4955
+  },
+  {
+    "Id": 37,
+    "Location": "Liberia",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 6.4281,
+    "Longitude": -9.4295
+  },
+  {
+    "Id": 38,
+    "Location": "Libya",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 26.3351,
+    "Longitude": 17.2283
+  },
+  {
+    "Id": 39,
+    "Location": "Poland",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 51.9194,
+    "Longitude": 19.1451
+  },
+  {
+    "Id": 40,
+    "Location": "Sierra Leone",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 8.4606,
+    "Longitude": -11.7799
+  },
+  {
+    "Id": 41,
+    "Location": "Sudan",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 12.8628,
+    "Longitude": 30.2176
+  },
+  {
+    "Id": 42,
+    "Location": "Syria",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 34.8021,
+    "Longitude": 38.9968
+  },
+  {
+    "Id": 43,
+    "Location": "El Salvador",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Latitude": 13.7942,
+    "Longitude": -88.8965
+  }
 ]
