@@ -2,294 +2,189 @@
   {
     "Id": 1,
     "Location": "Bosnia & Herzegovina",
-    "Description": "",
+    "Description": "Bosnia & Herzegovina is a country on the Balkan Peninsula in southeastern Europe. After the dissolution of Yugoslavia and the wars in the 1990s, Bosnians became the largest group resettled in Utica at over 4500.",
     "Latitude": 43.9159,
     "Longitude": 17.6791
   },
   {
     "Id": 2,
     "Location": "Myanmar (Burma)",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Myanmar (formerly Burma) is a country in Southeast Asia. Many refugees in the Utica area that have arrived from Myanmar are from the persecuted ethnic minority: Karen people.",
     "Latitude": 21.9162,
     "Longitude": 95.9560
   },
   {
     "Id": 3,
     "Location": "Vietnam",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Arriving in the 1980s from the conflict in their homeland, Vietnamese refugees came to Utica and opened restaurants and stores. Most are now fully integrated into the community.",
     "Latitude": 14.0583,
     "Longitude": 108.2772
   },
   {
     "Id": 4,
     "Location": "Ukraine",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Ukrainians initially resettled in the Utica area following the dissolution of the Soviet Union. A second recent wave has started to be resettled as well due to the ongoing war in Ukraine.",
     "Latitude": 49.260010,
     "Longitude": 31.352220
   },
   {
     "Id": 5,
     "Location": "Iraq",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Many Iraqis that worked with U.S. forces during the Iraq War have resettled in Utica and started opening stores and restaurants with Middle Eastern cuisines.",
     "Latitude": 33.3152,
     "Longitude": 44.3661
   },
   {
     "Id": 6,
     "Location": "Afghanistan",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "After the capture of the capital city of Kabul by Taliban forces in 2021, Afghan refugees have started to be resettled across multiple cities in the U.S., Utica being one of them.",
     "Latitude": 33.9391,
     "Longitude": 67.7100
   },
   {
     "Id": 7,
     "Location": "Somalia",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Members of the persecuted Somali Bantu population have become a major source of refugees resettled in Utica at over 2,000.",
     "Latitude": 5.1521,
     "Longitude": 46.1996
   },
   {
     "Id": 8,
     "Location": "Bhutan",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Upon arrival to Utica, Bhutanese refugees have started opening up stores and restaurants.",
     "Latitude": 27.5142,
     "Longitude": 90.4336
   },
   {
     "Id": 9,
     "Location": "Nepal",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Upon arrival to Utica, Nepali refugees have started opening up stores and restaurants.",
     "Latitude": 28.3949,
     "Longitude": 84.1240
   },
   {
     "Id": 10,
     "Location": "DR Congo",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Due to the bloody civil war in the Democratic Republic of the Congo, Congolese refugees have resettled in Utica.",
     "Latitude": 4.0383,
     "Longitude": 21.7587
   },
   {
     "Id": 11,
     "Location": "Kenya",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "A large number of the refugees arriving from Kenya are those initially displaced due to the violence in Somalia. After years in the refugee camps in Kenya, some now call Utica home.",
     "Latitude": 0.0236,
     "Longitude": 37.9062
   },
   {
     "Id": 12,
     "Location": "Belarus",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Belarusians initially resettled in the Utica area following the dissolution of the Soviet Union.",
     "Latitude": 53.7098,
     "Longitude": 27.9534
   },
   {
     "Id": 13,
     "Location": "Former Soviet Union",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Following the fall of the Berlin Wall and dissolution of the Soviet Union, members from various former Soviet republics have resttled in Utica.",
     "Latitude": 61.5240,
     "Longitude": 105.3188
   },
   {
     "Id": 14,
     "Location": "Serbia",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "After the dissolution of Yugoslavia and wars in the 1990s, some Serbian refugees have resettled in Utica and have opened businesses.",
     "Latitude": 44.0165,
     "Longitude": 21.0059
   },
   {
     "Id": 15,
     "Location": "Croatia",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "After the dissolution of Yugoslavia and wars in the 1990s, some Croatian refugees have resettled in Utica and have opened businesses.",
     "Latitude": 45.1000,
     "Longitude": 15.2000
   },
   {
     "Id": 17,
     "Location": "Lebanon",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Lebanese refugees arrived in Utica starting in the 1940s, started linens and other dry goods stores. In the 21st century, they have become fully integrated members of Utica.",
     "Latitude": 33.8547,
     "Longitude": 35.8623
   },
   {
     "Id": 18,
     "Location": "Romania",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Romania is a country in the Easten Balkan peninsula in southeastern Europe. Some Romanians have relocated and now call Utica home.",
     "Latitude": 45.9432,
     "Longitude": 24.9668
   },
   {
     "Id": 19,
     "Location": "Dominican Republic",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Dominicans represent a major source of the latino population in Utica, many arriving due to cheaper housing and standard of living than in New York City.",
     "Latitude": 18.7357,
     "Longitude": -70.1627
   },
   {
     "Id": 20,
     "Location": "Cuba",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Some Cubans fleeing poverty and political persecution in their home country not call Utica home.",
     "Latitude": 21.5218,
     "Longitude": -77.7812
   },
   {
-    "Id": 21,
-    "Location": "Brazil",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "Latitude": -15.601,
-    "Longitude": -56.1008
-  },
-  {
     "Id": 22,
     "Location": "Bulgaria",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Bulgaria is a country in the Easten Balkan peninsula in southeastern Europe. Some Bulgarians have relocated and now call Utica home.",
     "Latitude": 42.7339,
     "Longitude": 25.4858
   },
   {
-    "Id": 23,
-    "Location": "Cambodia",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "Latitude": 12.5657,
-    "Longitude": 104.9910
-  },
-  {
     "Id": 24,
     "Location": "China",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Some Chinese immigrants have arrived to Utica due to cheaper housing and standard of living than in New York City.",
     "Latitude": 35.8617,
     "Longitude": 104.1954
   },
   {
     "Id": 25,
     "Location": "Czech Republic",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Following the fall of the Berlin Wall and dissolution of Czechoslovakia, Czech refugees have resettled in Utica.",
     "Latitude": 49.8175,
     "Longitude": 15.4730
   },
   {
     "Id": 26,
     "Location": "Slovakia",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Following the fall of the Berlin Wall and dissolution of Czechoslovakia, Slovak refugees have resettled in Utica.",
     "Latitude": 48.6690,
     "Longitude": 19.6990
   },
   {
-    "Id": 27,
-    "Location": "Egypt",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "Latitude": 26.8206,
-    "Longitude": 30.8025
-  },
-  {
-    "Id": 28,
-    "Location": "Eritrea",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "Latitude": 15.1794,
-    "Longitude": 39.7823
-  },
-  {
-    "Id": 29,
-    "Location": "Ethiopia",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "Latitude": 9.1450,
-    "Longitude": 40.4897
-  },
-  {
-    "Id": 30,
-    "Location": "Lithuania",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "Latitude": 55.1694,
-    "Longitude": 23.8813
-  },
-  {
-    "Id": 31,
-    "Location": "Uzbekistan",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "Latitude": 41.3775,
-    "Longitude": 64.5853
-  },
-  {
     "Id": 32,
     "Location": "Haiti",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Fleeing poverty, violence, and political instability, some Haitians have resettled in Utica.",
     "Latitude": 18.9712,
     "Longitude": -72.2852
   },
   {
-    "Id": 33,
-    "Location": "Hungary",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "Latitude": 47.1625,
-    "Longitude": 19.5033
-  },
-  {
-    "Id": 34,
-    "Location": "Iran",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "Latitude": 32.4279,
-    "Longitude": 53.6880
-  },
-  {
-    "Id": 35,
-    "Location": "Kosovo",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "Latitude": 42.6026,
-    "Longitude": 20.9030
-  },
-  {
-    "Id": 36,
-    "Location": "Laos",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "Latitude": 19.8563,
-    "Longitude": 102.4955
-  },
-  {
-    "Id": 37,
-    "Location": "Liberia",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "Latitude": 6.4281,
-    "Longitude": -9.4295
-  },
-  {
-    "Id": 38,
-    "Location": "Libya",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "Latitude": 26.3351,
-    "Longitude": 17.2283
-  },
-  {
-    "Id": 39,
-    "Location": "Poland",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "Latitude": 51.9194,
-    "Longitude": 19.1451
-  },
-  {
-    "Id": 40,
-    "Location": "Sierra Leone",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-    "Latitude": 8.4606,
-    "Longitude": -11.7799
-  },
-  {
     "Id": 41,
     "Location": "Sudan",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "Due to war and targeting of ethnic minorities in Sudan and South Sudan, Sudanese refugees represent a recently growing group in Utica.",
     "Latitude": 12.8628,
     "Longitude": 30.2176
   },
   {
     "Id": 42,
     "Location": "Syria",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "The Syrian Civil War has resettled in a major refugee crisis by displacing millions of Syrians. Some now call Utica home.",
     "Latitude": 34.8021,
     "Longitude": 38.9968
   },
   {
     "Id": 43,
     "Location": "El Salvador",
-    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+    "Description": "El Salvadorians have relocated to Utica from their Central American country, which is rife with gang violence and poverty. Some have now started restaurants and stores, adding to Utica's diverse food culture.",
     "Latitude": 13.7942,
     "Longitude": -88.8965
   }
