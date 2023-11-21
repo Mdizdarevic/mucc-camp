@@ -7,6 +7,7 @@ import icon1 from './map_pin.png';
 import './map.css';
 
 const Map = () => {
+    
 
     const mapIcon = new Icon({
         iconUrl: icon1,
