@@ -62,7 +62,7 @@ const Map = () => {
         <div>
             <MapContainer 
                 center = { [ 20.0,0.0 ] }
-                zoom = { 1 }
+                zoom = { 3 }
                 scrollWheelZoom = { true } 
             >
                 {/* DARK MODE */}
